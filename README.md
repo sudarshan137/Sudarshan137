@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ghPRLFhKQ1B2N85XXGUTo22ZQ6wllt0A/view?usp=share_link)
 
-- ⚡ Fun fact **Technology is the closest thing we have to magic, allowing us to turn our dreams into reality**
+- ⚡ Fun fact **any sufficiently advanced technology is indistinguishable from magic - Arthur C. Clarke**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
