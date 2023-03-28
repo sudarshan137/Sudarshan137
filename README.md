@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **JAVA, SpringBoot, SQL**
 
-- 👨‍💻 All of my projects are available [here](https://sudarshan137.github.io)
+- 👨‍💻 All of my projects are available [https://sudarshan137.github.io/](https://sudarshan137.github.io/)
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ghPRLFhKQ1B2N85XXGUTo22ZQ6wllt0A/view?usp=share_link)
 
