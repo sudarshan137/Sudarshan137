@@ -6,12 +6,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudarshan137&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshan137" /> </p>
 
-
+# About me;
 - 🔭 I’m currently working on [Crime Managemenet System](https://github.com/sudarshan137/subtle-swing-119)
 
-- 🌱 I’m currently learning **JAVA, SpringBoot, SQL**
+- 👨‍💻 Visit my **[Portfolio](https://sudarshan137.github.io/)**
 
-- 👨‍💻 All of my projects are available [Portfolio](https://sudarshan137.github.io/)
+<br>
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ghPRLFhKQ1B2N85XXGUTo22ZQ6wllt0A/view?usp=share_link)
 
