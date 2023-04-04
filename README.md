@@ -7,7 +7,7 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sudarshan137&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshan137" /> </p>
 
 # About me;
-- 🔭 I’m currently working on [Crime Managemenet System](https://github.com/sudarshan137/subtle-swing-119)
+<!-- - 🔭 I’m currently working on [Crime Managemenet System](https://github.com/sudarshan137/subtle-swing-119) -->
 
 - 👨‍💻 Visit my **[Portfolio](https://sudarshan137.github.io)**
 
