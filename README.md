@@ -13,7 +13,7 @@
 
 <br>
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1ghPRLFhKQ1B2N85XXGUTo22ZQ6wllt0A/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1e5VrRJFnvV3bN6sA5lBzbN-cB9X1VaBp/view?usp=share_link)
 
 - ⚡ Fun fact **any sufficiently advanced technology is indistinguishable from magic - Arthur C. Clarke**
 
