@@ -9,7 +9,8 @@
 # About me;
 <!-- - 🔭 I’m currently working on [Crime Managemenet System](https://github.com/sudarshan137/subtle-swing-119) -->
 
-- 👨‍💻 Visit my **[Portfolio](https://sudarshan137.github.io/)**
+- 👨‍💻 Visit my **[Portfolio](https://sudarshan137.github.io/)**{:target="_blank"} 
+
 
 <br>
 
